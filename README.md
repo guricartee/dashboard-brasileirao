@@ -21,7 +21,7 @@ Projeto de análise de dados do Campeonato Brasileiro utilizando dados históric
 
 ## 📌 Objetivo
 
-Praticar análise de dados, visualização e construção de dashboards esportivos.
+Praticar análise de dados, visualização e construção de dashboards.
 
 ## 📷 Preview
 
