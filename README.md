@@ -25,5 +25,5 @@ Praticar análise de dados, visualização e construção de dashboards esportiv
 
 ## 📷 Preview
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](dashboard.png)
 
